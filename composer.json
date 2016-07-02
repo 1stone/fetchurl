@@ -1,13 +1,21 @@
 {
-  "name": "in2code/fetchurl",
+  "name": "1stone/fetchurl",
   "description": "Fetch an url and show the content in a TYPO3 Frontend.",
   "version": "2.0.0",
   "keywords": ["typo3", "fetch", "iframe"],
-  "homepage": "https://github.com/einpraegsam/fetchurl",
+  "homepage": "https://github.com/1stone/fetchurl",
   "authors": [
     {
+      "name": "Joerg Delker",
+      "email": "jd_typo3@onix.de",
+      "homepage": "https://github.com/1stone/fetchurl",
+      "role": "Developer"
+    },
+    {
       "name": "Alex Kellner",
-      "email": "alexander.kellner@in2code.de"
+      "email": "alexander.kellner@in2code.de",
+      "homepage": "https://github.com/einpraegsam/fetchurl",
+      "role": "Developer"
     }
   ],
   "type": "typo3-cms-extension",

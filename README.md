@@ -1,6 +1,13 @@
 # TYPO3 extension fetchurl
-Extension fetchurl for TYPO3. Basicly a fork for TYPO3 7, 8 and so on.
 
-Fetch an url and show the content in Frontend. This is an alternative to a iframe solution. Contained image or link URIs are rewritten accordingly.
+Extension **fetchurl** for TYPO3.
 
-Old Extension fetchurl grabbed and updated for newer TYPO3 versions
+Fetches an URL and shows the content in Frontend.
+This is an alternative to an iframe solution.
+Contained image or link URIs are rewritten accordingly.
+
+V1.0.1
+: Inital version published July 30, 2004 for Typo3 v4.x
+
+V2.0.0
+: Upgraded to Typo3 v7.6 by Alex Kellner
