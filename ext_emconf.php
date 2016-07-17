@@ -12,11 +12,11 @@
 
 $EM_CONF[$_EXTKEY] = [
     'title' => 'fetchurl',
-    'description' => 'Fetch an url and show the content in Frontend. 
+    'description' => 'Fetch an url and show the content in Frontend.
         This is an alternative to a iframe solution. Contained image or link URIs are rewritten accordingly.',
     'category' => 'plugin',
     'shy' => 0,
-    'version' => '2.0.0',
+    'version' => '2.0.2',
     'dependencies' => 'cms,extbase,fluid',
     'conflicts' => '',
     'priority' => '',
@@ -28,9 +28,9 @@ $EM_CONF[$_EXTKEY] = [
     'modify_tables' => '',
     'clearcacheonload' => 1,
     'lockType' => '',
-    'author' => 'Alex Kellner (original Jörg Delker)',
-    'author_email' => 'alexander.kellner@in2code.de',
-    'author_company' => 'in2code.de',
+    'author' => 'Jörg Delker, Alex Kellner',
+    'author_email' => 'jd@onix.de, alexander.kellner@in2code.de',
+    'author_company' => 'onix.de, in2code.de',
     'CGLcompliance' => '',
     'CGLcompliance_note' => '',
     'constraints' => [
