@@ -11,3 +11,6 @@ V1.0.1
 
 V2.0.0
 : Upgraded to Typo3 v7.6 by Alex Kellner
+
+V2.0.1
+: Bugfix of syntax error in composer.json.
